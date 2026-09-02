@@ -9,8 +9,8 @@
 // WIFI
 // =====================================================
 
-const char* ssid = "Infinix HOT 40 Pro";
-const char* password = "12345678";
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // =====================================================
 // PIN MAPPING
