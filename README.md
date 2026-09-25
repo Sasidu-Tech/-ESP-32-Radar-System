@@ -1,5 +1,10 @@
 📡 ESP32 Web-Based Radar Detection System
 
+## 🎥 Demo
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/gUYuT4dM)
+
+
 A real-time ESP32-based Radar Detection System that scans the surrounding area using an ultrasonic sensor mounted on a servo motor and displays detected objects on a live web-based radar interface.
 
 The system also uses a laser module to indicate the detected object, creating a simple interactive radar experience.
